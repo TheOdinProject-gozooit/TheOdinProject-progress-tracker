@@ -12,7 +12,7 @@ So I first started with the basics in Python, building some small tools for my p
 
 This repository is a homepage about my progress on The Odin Project. It contains links to all the projects I have done in relation to it.
 
-## Ruby
+## Ruby <img src="https://progress-bar.dev/7?title=Progress&width=180&color=333333" align="right">
 
 ### [Caesar Cypher](https://github.com/TheOdinProject-gozooit/caesar-cipher)
 
@@ -35,3 +35,17 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
 ### Event Manager
 
 ### Hangman
+
+### Custom Enumerables
+
+### Recursion
+
+### Linked Lists
+
+### Binary Search Trees
+
+### Knights Travails
+
+### Connect Four
+
+### Ruby Final Project
