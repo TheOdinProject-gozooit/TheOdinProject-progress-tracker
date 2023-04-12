@@ -12,17 +12,28 @@ So I first started with the basics in Python, building some small tools for my p
 
 This repository is a homepage about my progress on The Odin Project. It contains links to all the projects I have done in relation to it.
 
-## Ruby <img src="https://progress-bar.dev/7?title=Progress&width=180&color=333333" align="right">
+## Ruby <img src="https://progress-bar.dev/13?title=Progress&width=180&color=333333" align="right">
 
 ### [Caesar Cypher](https://github.com/TheOdinProject-gozooit/caesar-cipher)
 
 Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string:
-```
+```ruby
 > caesar_cipher("What a string!", 5)
 => "Bmfy f xywnsl!"
 ```
 
-### Sub Strings
+### [Sub Strings](https://github.com/TheOdinProject-gozooit/sub-strings)
+
+Implement a method `#substrings` that takes a word as the first argument and then an array of valid substrings (your dictionary) as the second argument. It should return a hash listing each substring (case insensitive) that was found in the original string and how many times it was found.
+
+```ruby
+> dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+=> ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+> substrings("below", dictionary)
+=> { "below" => 1, "low" => 1 }
+> substrings("Howdy partner, sit down! How's it going?", dictionary)
+=> { "down" => 1, "go" => 1, "going" => 1, "how" => 2, "howdy" => 1, "it" => 2, "i" => 3, "own" => 1, "part" => 1, "partner" => 1, "sit" => 1 }
+```
 
 ### Stock Picker
 
