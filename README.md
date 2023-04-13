@@ -12,7 +12,7 @@ So I first started with the basics in Python, building some small tools for my p
 
 This repository is a homepage about my progress on The Odin Project. It contains links to all the projects I have done in relation to it.
 
-## Ruby <img src="https://progress-bar.dev/20?title=Progress&width=180&color=333333" align="right">
+## Ruby <img src="https://progress-bar.dev/27?title=Progress&width=180&color=333333" align="right">
 
 ### [Caesar Cypher](https://github.com/TheOdinProject-gozooit/caesar-cipher)
 
@@ -44,7 +44,14 @@ Implement a method `#stock_picker` that takes in an array of stock prices, one f
 => [1,4]  # for a profit of $15 - $3 == $12
 ```
 
-### Bubble Sort
+### [Bubble Sort](https://github.com/TheOdinProject-gozooit/bubble-sort)
+
+Build a method `#bubble_sort` that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?).
+
+```ruby
+> bubble_sort([4,3,78,2,0,2])
+=> [0,2,2,3,4,78]
+```
 
 ### Tic Tac Toe
 
