@@ -12,7 +12,7 @@ So I first started with the basics in Python, building some small tools for my p
 
 This repository is a homepage about my progress on The Odin Project. It contains links to all the projects I have done in relation to it.
 
-## Ruby <img src="https://progress-bar.dev/13?title=Progress&width=180&color=333333" align="right">
+## Ruby <img src="https://progress-bar.dev/20?title=Progress&width=180&color=333333" align="right">
 
 ### [Caesar Cypher](https://github.com/TheOdinProject-gozooit/caesar-cipher)
 
@@ -35,7 +35,14 @@ Implement a method `#substrings` that takes a word as the first argument and the
 => { "down" => 1, "go" => 1, "going" => 1, "how" => 2, "howdy" => 1, "it" => 2, "i" => 3, "own" => 1, "part" => 1, "partner" => 1, "sit" => 1 }
 ```
 
-### Stock Picker
+### [Stock Picker](https://github.com/TheOdinProject-gozooit/stock-picker)
+
+Implement a method `#stock_picker` that takes in an array of stock prices, one for each hypothetical day. It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
+
+```ruby
+> stock_picker([17,3,6,9,15,8,6,1,10])
+=> [1,4]  # for a profit of $15 - $3 == $12
+```
 
 ### Bubble Sort
 
