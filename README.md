@@ -12,7 +12,7 @@ So I first started with the basics in Python, building some small tools for my p
 
 This repository is a homepage about my progress on The Odin Project. It contains links to all the projects I have done in relation to it.
 
-## Ruby <img src="https://progress-bar.dev/27?title=Progress&width=180&color=333333" align="right">
+## Ruby <img src="https://progress-bar.dev/33?title=Progress&width=180&color=333333" align="right">
 
 ### [Caesar Cypher](https://github.com/TheOdinProject-gozooit/caesar-cipher)
 
@@ -53,7 +53,12 @@ Build a method `#bubble_sort` that takes an array and returns a sorted array. It
 => [0,2,2,3,4,78]
 ```
 
-### Tic Tac Toe
+### [Tic Tac Toe](https://github.com/TheOdinProject-gozooit/tic-tac-toe)
+
+Build a tic-tac-toe game on the command line where two human players can play against each other and the board is displayed in between turns.
+
+1. Think about how you would set up the different elements within the game… What should be a class? Instance variable? Method? A few minutes of thought can save you from wasting an hour of coding.
+2. Build your game, taking care to not share information between classes any more than you have to.
 
 ### Mastermind
 
