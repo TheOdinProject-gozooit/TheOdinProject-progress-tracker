@@ -12,7 +12,7 @@ So I first started with the basics in Python, building some small tools for my p
 
 This repository is a homepage about my progress on The Odin Project. It contains links to all the projects I have done in relation to it.
 
-## Ruby <img src="https://progress-bar.dev/33?title=Progress&width=180&color=333333" align="right">
+## Ruby <img src="https://progress-bar.dev/40?title=Progress&width=180&color=333333" align="right">
 
 ### [Caesar Cypher](https://github.com/TheOdinProject-gozooit/caesar-cipher)
 
@@ -60,7 +60,13 @@ Build a tic-tac-toe game on the command line where two human players can play ag
 1. Think about how you would set up the different elements within the game… What should be a class? Instance variable? Method? A few minutes of thought can save you from wasting an hour of coding.
 2. Build your game, taking care to not share information between classes any more than you have to.
 
-### Mastermind
+### [Mastermind](https://github.com/TheOdinProject-gozooit/mastermind)
+
+Build a Mastermind game from the command line where you have 12 turns to guess the secret code, starting with you guessing the computer’s random code.
+
+1. Build the game assuming the computer randomly selects the secret colors and the human player must guess them. Remember that you need to give the proper feedback on how good the guess was each turn!
+2. Now refactor your code to allow the human player to choose whether they want to be the creator of the secret code or the guesser.
+3. Build it out so that the computer will guess if you decide to choose your own secret colors. You may choose to implement a computer strategy that follows the rules of the game or you can modify these rules.
 
 ### Event Manager
 
