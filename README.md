@@ -12,7 +12,7 @@ So I first started with the basics in Python, building some small tools for my p
 
 This repository is a homepage about my progress on The Odin Project. It contains links to all the projects I have done in relation to it.
 
-## Ruby <img src="https://progress-bar.dev/40?title=Progress&width=180&color=333333" align="right">
+## Ruby <img src="https://progress-bar.dev/47?title=Progress&width=180&color=333333" align="right">
 
 ### [Caesar Cypher](https://github.com/TheOdinProject-gozooit/caesar-cipher)
 
@@ -68,7 +68,11 @@ Build a Mastermind game from the command line where you have 12 turns to guess t
 2. Now refactor your code to allow the human player to choose whether they want to be the creator of the secret code or the guesser.
 3. Build it out so that the computer will guess if you decide to choose your own secret colors. You may choose to implement a computer strategy that follows the rules of the game or you can modify these rules.
 
-### Event Manager
+### [Event Manager](https://github.com/TheOdinProject-gozooit/event-manager)
+
+This tutorial has been adapted from The Turing School's and Jump Start Lab's [Event manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html) and updated to use GoogleCivic API.
+
+The goal is to manipulate file input and output, read a CSV file and transform it into a standardized format, use the data to contact a remote service, populate a template with user data, access [Google's Civic Information API](https://developers.google.com/civic-information/) through the [Google API Client Gem](https://github.com/google/google-api-ruby-client) and user [ERB](http://rubydoc.info/stdlib/erb/ERB) for templating.
 
 ### Hangman
 
