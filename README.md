@@ -92,8 +92,14 @@ The goal is to manipulate file input and output, read a CSV file and transform i
 
 ## Javascript Foundations <img src="https://progress-bar.dev/67?title=Progress&width=180&color=333333" align="right">
 
-### Rock Paper Scissors
+### [Rock Paper Scissors](https://github.com/TheOdinProject-gozooit/js_rock-paper-scissors)
 
-### Etch-a-Sketch
+We’re going to make a simple implementation of grade-school classic “rock paper scissors”. First we’re just going to play the game from the browser console, but we will revisit this project in a later lesson and add a Graphical User Interface with buttons and text. Then we will revisit the project to add a simple UI.
 
-### Calculator
+### [Etch-a-Sketch](https://github.com/TheOdinProject-gozooit/js_etch-a-sketch)
+
+In this project, we’re going to build a browser version of something between a sketchpad and an Etch-A-Sketch.
+
+### [Calculator](https://github.com/TheOdinProject-gozooit/js_calculator)
+
+Our final project is going to combine everything you’ve learned so far: you’re going to make an on-screen calculator using JavaScript, HTML, and CSS.
