@@ -89,3 +89,11 @@ The goal is to manipulate file input and output, read a CSV file and transform i
 ### Connect Four
 
 ### Ruby Final Project
+
+## Javascript Foundations <img src="https://progress-bar.dev/67?title=Progress&width=180&color=333333" align="right">
+
+### Rock Paper Scissors
+
+### Etch-a-Sketch
+
+### Calculator
